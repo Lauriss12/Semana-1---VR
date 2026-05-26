@@ -1,0 +1,10 @@
+Ruta http://127.0.0.1:3000
+Muestra el mensaje "Servidor activo", indicando que 
+el servidor funciona correctamente.
+
+Ruta http://127.0.0.1:3000/saludo
+Muestra el mensaje "Hola comunidad".
+
+Ruta http://127.0.0.1:3000/mensaje/juan
+Muestra el mensaje "Hola juan", utilizando el nombre 
+enviado en la URL.
