@@ -1,0 +1,11 @@
+git clone https://github.com/Lauriss12/Semana-1---VR.git
+cd Semana-1---VR
+mkdir semana2
+cd semana2
+touch preguntas-semana2.txt
+touch comandos-terminal.txt
+touch reflexion-semana2.txt
+nano preguntas-semana2.txt
+nano comandos-terminal.txt
+nano reflexion-semana2.txt
+
