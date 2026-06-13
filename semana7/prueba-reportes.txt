@@ -1,0 +1,2 @@
+Al consultar la ruta GET /reportes, el servidor devuelve todos los reportes almacenados en el arreglo reportes. Cada vez que se registra un nuevo reporte mediante la ruta POST, este se agrega al arreglo y aparece en la consulta GET. Esto permite visualizar la información registrada mientras el servidor se encuentre en ejecución.
+
