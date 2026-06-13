@@ -1,0 +1,14 @@
+Las plataformas digitales modernas necesitan recibir 
+información de los usuarios de manera organizada y 
+estructurada. El uso de formularios y datos en formato JSON 
+permite que los sistemas procesen la información de forma 
+rápida y eficiente. En el caso de aplicaciones comunitarias, 
+esto facilita el registro de usuarios, la recepción de 
+solicitudes y el reporte de incidencias. Además, ayuda a 
+mantener la información ordenada y accesible para su 
+posterior análisis. Aprender a utilizar herramientas como 
+Node.js y Express permite comprender cómo funcionan los 
+servidores que reciben y procesan estos datos. Este 
+conocimiento es fundamental para desarrollar aplicaciones web 
+que respondan a las necesidades de las comunidades y mejoren 
+la comunicación entre ciudadanos e instituciones.
