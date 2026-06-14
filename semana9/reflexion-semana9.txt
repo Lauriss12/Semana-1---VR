@@ -1,0 +1,12 @@
+Las plataformas tecnológicas necesitan funcionar de manera estable y 
+segura para garantizar que los usuarios puedan acceder a los servicios 
+sin interrupciones. Un servidor estable permite que la información 
+esté disponible cuando se necesita. La seguridad protege los datos y 
+evita accesos no autorizados. Además, el monitoreo y los registros 
+ayudan a detectar problemas rápidamente. Cuando una plataforma 
+presenta fallas constantes, los usuarios pierden confianza en el 
+servicio. Por esta razón es importante mantener los servidores 
+actualizados y supervisados. También es fundamental realizar copias de 
+seguridad y aplicar buenas prácticas de administración. De esta manera 
+se garantiza un funcionamiento confiable para toda la comunidad que 
+utiliza la plataforma.
