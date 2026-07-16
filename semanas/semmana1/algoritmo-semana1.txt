@@ -1,0 +1,16 @@
+Pregunta  5. Algoritmo.
+Trasplantar una planta
+1. Elegir una nueva maceta más grande que la actual.
+2. Colocar tierra nueva en el fondo de la maceta.
+3. Regar ligeramente la planta antes de sacarla.
+4. Retirar la planta con cuidado de la maceta 
+anterior.
+5. Aflojar suavemente las raíces si están muy 
+compactas.
+6. Colocar la planta en el centro de la nueva maceta.
+7. Agregar más tierra alrededor hasta cubrir las 
+raíces.
+8. Presionar suavemente la tierra para fijar la 
+planta.
+9. Regar la planta después del trasplante.
+10. Ubicar la planta en un lugar con buena luz.
